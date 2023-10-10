@@ -1,0 +1,29 @@
+  p{
+      margin: 0px;
+    }
+    .first{
+      background-color: cadetblue;
+      border: 10px solid black;
+      padding: 20px;
+      height: 200px;
+      width: 200px;
+    }
+    .second{
+      background-color: gold;
+      border: 10px solid black;
+      padding: 20px;
+      height: 200px;
+      width: 200px;
+      margin-left: 260px;
+      margin-top: px;
+      border-width: 20px 10px 20px 10px;
+    }
+    .third{
+      background-color: indianred;
+      border: 10px solid black;
+      padding: 20px;
+      height: 200px;
+      width: 200px;
+      
+      margin-top: px;
+    }
